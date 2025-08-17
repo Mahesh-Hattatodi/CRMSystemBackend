@@ -59,9 +59,9 @@ A Spring Boot application for managing customers, sales, and interactions. It in
 | /auth/refresh  | POST   | Refresh access token using a valid refresh token                                                                         |
 
 
-![Security endpoints](crm backend/security/admin%20login.png)
-![Security endpoints](crm backend/security/sales%20manager%20or%20data%20analyst%20register.png)
-![Security endpoints](crm backend/security/refresh%20access%20token.png)
+![Security endpoints](crm%20backend/security/admin%20login.png)
+![Security endpoints](crm%20backend/security/sales%20manager%20or%20data%20analyst%20register.png)
+![Security endpoints](crm%20backend/security/refresh%20access%20token.png)
 
 
 ### Customer
@@ -75,9 +75,9 @@ A Spring Boot application for managing customers, sales, and interactions. It in
 | /customers/reassign           | PUT    | Reassign a customer from one sales rep to another |
 
 
-![Security endpoints](crm backend/customers/create%20customers.png)
-![Security endpoints](crm backend/customers/get%20all%20customers.png)
-![Security endpoints](crm backend/customers/get%20cus%20by%20id.png)
+![Security endpoints](crm%20backend/customers/create%20customers.png)
+![Security endpoints](crm%20backend/customers/get%20all%20customers.png)
+![Security endpoints](crm%20backend/customers/get%20cus%20by%20id.png)
 
 ### Sales
 | Endpoint              | Method | Description                        |
@@ -89,8 +89,8 @@ A Spring Boot application for managing customers, sales, and interactions. It in
 | /sales/{salePublicId} | DELETE | Delete a sale record by public ID  |
 
 
-![Security endpoints](crm backend/sales/create%20sale%20record.png)
-![Security endpoints](crm backend/sales/get%20sale%20by%20id.png)
+![Security endpoints](crm%20backend/sales/create%20sale%20record.png)
+![Security endpoints](crm%20backend/sales/get%20sale%20by%20id.png)
 
 ### Customer Interactions
 | Endpoint                            | Method | Description                                |
